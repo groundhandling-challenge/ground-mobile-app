@@ -6,6 +6,41 @@
   </ion-navbar>
 </ion-header>
 
-<ion-content padding>
+<ion-content>
+  <div padding>
+    <h1>Groundhandling Challenge</h1>
+    <p>Groundhandling Challenge was started by Portuguese paragliding pilot André Bandarra with the objective to get more people into Groundhandling, create a community around it and have fun in the process. He crafted the content and released the project’s website in December 2017.</p>
+    <p>In the spirit of André’s objective, German paragliding pilot Michael Schmidt-Voigt joined the adventure and created this accompanying app.</p>
+    <p>Have Fun - Stay Safe</p>
+  </div>
 
+  <ion-list>
+    <ion-list-header>Website</ion-list-header>
+    <button ion-item (click)="launch('https://www.groundhandlingchallenge.com')">
+      groundhandlingchallenge.com
+    </button>
+  </ion-list>
+
+  <ion-list>
+    <ion-list-header>Creators</ion-list-header>
+    <button ion-item (click)="launch('https://www.youtube.com/channel/UCzYf1cmKwDMSiII9SSp6IJw')">
+      <ion-avatar item-start>
+        <img src="assets/imgs/avatars/andre.jpg" style="border-radius: 0;">
+      </ion-avatar>
+      <h2>André Bandarra</h2>
+      <p>on YouTube</p>
+    </button>
+    <button ion-item (click)="launch('https://twitter.com/M165437')">
+      <ion-avatar item-start>
+        <img src="assets/imgs/avatars/michael.jpg">
+      </ion-avatar>
+      <h2>Michael Schmidt-Voigt</h2>
+      <p>on Twitter</p>
+    </button>
+  </ion-list>
+
+  <ion-list>
+    <ion-list-header>Version</ion-list-header>
+    <ion-item>1.0</ion-item>
+  </ion-list>
 </ion-content>

@@ -1,0 +1,30 @@
+<ion-header>
+  <ion-navbar>
+    <ion-title>Difficulty {{ activeLevel }}</ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content>
+  <ion-slides #slides pager paginationType="progress" initialSlide="{{ initialIndex }}" (ionSlideWillChange)="slideWillChange()">
+    <ion-slide *ngFor="let exercise of data.exercises" style="align-items: flex-start; overflow-y: auto; display: block;">
+      <ion-card>
+        <img src="assets/imgs/exercises/{{ exercise.id }}.jpg"/>
+        <ion-card-content>
+          <ion-card-title text-left>
+            <ion-grid no-padding>
+              <ion-row align-items-center>
+                <ion-col col-auto>
+                  <button ion-button icon-only clear style="height: 24px; margin: 0 8px 0 0;" (click)="toggleExercise($event, exercise.id)">
+                    <ion-icon name="{{ (completedExercises$ | async).includes(exercise.id) ? 'checkmark-circle' : 'checkmark-circle-outline' }}" isActive="true" no-padding></ion-icon>
+                  </button>
+                </ion-col>
+                <ion-col >{{ exercise.name }}</ion-col>
+              </ion-row>
+            </ion-grid>
+          </ion-card-title>
+          <p text-left>{{ exercise.desc }}</p>
+        </ion-card-content>
+      </ion-card>
+    </ion-slide>
+  </ion-slides>
+</ion-content>
