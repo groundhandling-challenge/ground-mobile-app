@@ -29,6 +29,8 @@
     "@ngrx/effects": "^4.1.1",
     "@ngrx/store": "^4.1.1",
     "@ngrx/store-devtools": "^4.1.1",
+    "@ngx-translate/core": "^9.1.1",
+    "@ngx-translate/http-loader": "^2.0.1",
     "@types/lodash": "^4.14.89",
     "cordova-android": "^7.1.4",
     "cordova-ios": "^4.5.5",

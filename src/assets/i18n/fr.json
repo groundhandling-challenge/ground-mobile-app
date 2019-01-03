@@ -1,0 +1,133 @@
+{
+  "misc": {
+    "exercises": "Exercices",
+    "about": "À propos",
+    "difficulty": "Difficulté"
+  },
+  "exercises": {
+    "A01": {
+      "name": "Gonflage",
+      "desc": "Alignez votre voile perpendiculairement au vent. Attrapez les \"As\" et tirez. La voile va monter et se stabiliser au dessus de vous. La vitesse à laquelle elle montera dépendra de sa taille, de la force du vent et de la force de traction que vous appliquerez."
+    },
+    "A02": {
+      "name": "Maintient au dessus de la tête",
+      "desc": "Au dessus de votre tête, la voile va tanguer, rouler et faire des lacets. Utilisez vos pieds et les commandes pour rester sous elle. Si c'est trop facile, ré-essayez dans d'autres conditions météo."
+    },
+    "A03": {
+      "name": "Marche avant",
+      "desc": "Abaissez votre centre de gravité et faites avancer la voile face au vent. Plus vous mettrez de frein, et plus ce sera difficile d'avancer. Essayez en \"dos voile\", puis en \"face voile\" également."
+    },
+    "A04": {
+      "name": "Affalement",
+      "desc": "Tirez sur les freins jusqu'à ce que votre voile tombe. Plus vous tirerez, et plus vite elle s'affalera. Essayez dans diverses conditions de vent et comparez les résultats."
+    },
+    "B01": {
+      "name": "Gonflage sans les \"A\"",
+      "desc": "Face voile, placez vos fesses dans la sellette, et tirez vers l'arrière. Gardez vos mains sur les commandes, prêt à freiner, mais ne touchez pas aux élévateurs \"A\". Certaines voiles sont capables de gonfler simplement en tirant ainsi sur le groupe d'élévateurs."
+    },
+    "B02": {
+      "name": "Au dessus de la tête sans les mains",
+      "desc": "Gardez la voile au dessus de la tête sans toucher aucune suspente. Vous avez le droit de déplacer votre corps pour rester sous la voile. Appuyez-vous sur la sellette et/ou les élévateurs et la voile va doucement obéir."
+    },
+    "B03": {
+      "name": "Déplacement à gauche",
+      "desc": "Ou à droite. Déplacez-vous perpendiculairement au vent. Vous pouvez laisser la voile vous suivre, ou l'inverse. Il existe plusieurs façons d'atteindre le même objectif."
+    },
+    "B04": {
+      "name": "Neutralisation aux \"C\"",
+      "desc": "Tirez sur vos élévateurs arrière et la voile va s'affaler. Il faudra probablement tirer plus fort que sur les freins, mais le résultat est plus doux. Cela peut être utile lorsqu'il y a beaucoup de vent."
+    },
+    "C01": {
+      "name": "Gonflage en bouchon",
+      "desc": "Disposez votre voile en cercle, et exposez les caissons centraux au vent. Quand vous tirerez sur les \"As\" internes, la voile va se gonfler progressivement. Essayez avec plus ou moins de caissons exposés et différentes conditions météo."
+    },
+    "C02": {
+      "name": "Gonflage vent de travers",
+      "desc": "Placez la voile presque parallèlement au vent. Faites-la monter au dessus de votre tête depuis cette position. Il sera peut-être nécessaire de tirer plus fort d'un coté que de l'autre."
+    },
+    "C03": {
+      "name": "Gonflage \"Cobra\"",
+      "desc": "Peut être réalisé seul ou à l'aide d'un ami. Voile parallèle au vent, exposez les caissons les plus lointains et gonflez la voile puis faites la monter comme danse un serpent. La délicatesse sur les freins est la clef."
+    },
+    "C04": {
+      "name": "Marche arrière ",
+      "desc": "Faites reculer la voile en suivant le vent, tout en la gardant au dessus de votre tête. Ce qui lui permet de tenir en l'air, c'est la vitesse relative de la masse d'air, donc surveillez-la attentivement. La difficulté dépend fortement des conditions météo."
+    },
+    "C05": {
+      "name": "Allongé",
+      "desc": "Comme une brique. Maintenez la voile au dessus de vous. Il vous faudra un vent calme et linéaire et un contrôle précis sur les freins. Serez-vous capable de vous relever sans que la voile ne s'affale ?"
+    },
+    "C06": {
+      "name": "Fermeture asymétrique de 30%",
+      "desc": "Tirez sur l'un des élévateurs A de façon à fermer environ un tiers de la voile. Ne sur-pilotez pas. Utilisez juste assez du frein opposé pour garder la voile en l'air. Tirer sur le frein pour ré-ouvrir l'aile ne fonctionne que s'il y a assez de pression."
+    },
+    "C07": {
+      "name": "Affalement latéral",
+      "desc": "Amenez votre voile presque parallèlement au vent et posez là un bord après l'autre. Cela peut être difficile à réaliser dans certaines conditions de vent. Si vous y parvenez, cela peut grandement faciliter le pliage dans un sac chaussette."
+    },
+    "C08": {
+      "name": "Neutralisation aux \"A\"",
+      "desc": "Tirer sur les \"As\" va fermer le bord d'attaque. Cela peut être utile pour poser rapidement la voile dans du vent fort. Vous ne pourrez pas tirer dessus indéfiniment. Souvenez-vous de la façon dont vous gonflez votre voile..."
+    },
+    "C09": {
+      "name": "Neutralisation aux \"B\"",
+      "desc": "Tirer sur les \"B\" jusqu'à ce que la voile se plie en deux comme un taco. Ça n'est pas très esthétique, mais c'est très pratique pour la poser dans quasiment n'importe quelle situation. Vous pouvez maintenir la forme de taco indéfiniment."
+    },
+    "C10": {
+      "name": "Posé en douceur",
+      "desc": "Amenez gentiment votre voile au sol en utilisant toutes les suspentes que vous le souhaitez. Si vous ne faites pas claquer votre voile au sol elle durera plus longtemps. Des vents de forces différentes nécessitent des techniques différentes."
+    },
+    "D01": {
+      "name": "Gonflage cravaté",
+      "desc": "Au sol, coincez manuellement l'une des extrémités de votre voile dans les suspentes. Gonflez ensuite la voile et maintenez là au dessus de vous. Un bonus est accordé si vous parvenez à défaire la cravate sans poser la voile. "
+    },
+    "D02": {
+      "name": "Un seul côté",
+      "desc": "Gonflez votre voile en utilisant un seul de ses côtés. Utilisez seulement les \"As\" et les freins d'une même demi-voile. Vous pouvez toutefois déplacer vos pieds."
+    },
+    "D03": {
+      "name": "Sans les mains",
+      "desc": "Au sol, placez votre voile sens dessus-dessous. Essayez ensuite de remettre le bord d'attaque sur le dessus sans toucher la voile, mais en utilisant uniquement les suspentes. Il peut être utile de se déplacer."
+    },
+    "D04": {
+      "name": "Point de décrochage ",
+      "desc": "Un peu plus haut et la voile est gonflée. Un peu plus bas et elle s'affale. Gardez là ainsi, au point de décrochage, sans toucher le sol. Des ajustements rapides et précis seront nécessaires."
+    },
+    "D05": {
+      "name": "Tracté contrôlé",
+      "desc": "Trouvez la position dans laquelle votre voile vous tire le plus et laissez-vous tracter. Sur vos pieds, vos fesses, ou même sur le ventre, l'important est de toujours savoir comment s'en sortir. Cela peut être un excellent moyen de transport."
+    },
+    "D06": {
+      "name": "Pompage",
+      "desc": "Pompez sur vos freins, et battez de l'aile mais ne la laissez pas retomber derrière vous. Jusqu'à quelle vitesse et quelle profondeur pourrez-vous pomper ? Existe-t-il un lien entre la fréquence et l'intensité du pompage ?"
+    },
+    "D07": {
+      "name": "Fermeture asymétrique de 50%",
+      "desc": "Tirez sur l'un des élévateurs A de façon à fermer une moitié de la voile. Soyez patient jusqu'à sa ré-ouverture complète. La reprendre en main dépendra peut-être d'une bonne technique de pieds."
+    },
+    "D08": {
+      "name": "Escalade de dune",
+      "desc": "Ou d'une colline. Utilisez la voile pour vous tracter. Si vous décollez, vous avez perdu, mais ça reste plaisant. Grimper en zigzag peut être plus efficace qu'en ligne droite."
+    },
+    "E01": {
+      "name": "Gonflage lancé",
+      "desc": "La voile en bouchon dans une main, les \"A\" dans l'autre. Lancez la voile dans le sens du vent, et courrez dans l'autre en tirant sur les \"A\". Si la voile ne touche pas du tout le sol, vous marquez le maximum de points."
+    },
+    "E02": {
+      "name": "Voile retournée",
+      "desc": "Gardez la voile au dessus du sol, sens dessus-dessous. Tout est à l'envers. Tirer sur les freins fait monter la voile, tirer sur les \"As\" l'affale. La forme inadaptée du bord de fuite vous empêchera de la faire monter plus haut."
+    },
+    "E03": {
+      "name": "Fermeture asymétrique de 80%",
+      "desc": "Tirez sur tous les \"As\" sauf l'une des suspentes extrêmes. Tentez de regonfler la voile sans qu'elle ne touche le sol. Cela peut être plus compliqué que lors d'une fermeture frontale complète à cause de l'asymétrie."
+    },
+    "E04": {
+      "name": "Hélicoptère",
+      "desc": "Bord d'attaque vers le ciel, puis vers le sol, puis vers le ciel à nouveau. Le tout en un seul mouvement parfaitement fluide. La taille de l'aile, la force du vent et un tas d'autres paramètres peuvent influer sur la difficulté. Congratulez-vous si vous parvenez à valider cet exercice."
+    },
+    "E05": {
+      "name": "Spiderman",
+      "desc": "Si vous parvenez aussi loin, le Groundhandling Challenge aura fait son boulot :)"
+    }
+  }
+}

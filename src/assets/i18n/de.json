@@ -1,0 +1,133 @@
+{
+  "misc": {
+    "exercises": "Übungen",
+    "about": "Info",
+    "difficulty": "Schwierigkeitsstufe"
+  },
+  "exercises": {
+    "A01": {
+      "name": "Aufziehen",
+      "desc": "Lege den Schirm quer zum Wind aus und ziehe ihn an den A-Gurten hoch. Der Schirm steigt nun, je nach Schirmgröße, Windstärke und deiner Zugkraft, langsamer oder schneller über dich."
+    },
+    "A02": {
+      "name": "Oben halten",
+      "desc": "Ist der Schirm über dir, rollt, schaukelt und dreht er sich. Bleibe mit Hilfe deiner Füße und der Bremsen unter dem Schirm. Wird das zu einfach, versuche andere Windbedingungen."
+    },
+    "A03": {
+      "name": "Vorwärtsgehen",
+      "desc": "Bringe deinen Schwerpunkt nach unten und stemme dich gegen den Wind. Je stärker du bremst, desto mehr musst du dich anstrengen. Mit Blick in Laufrichtung oder zum Schirm."
+    },
+    "A04": {
+      "name": "Ablegen",
+      "desc": "Bremse, bis der Schirm nach hinten kippt. Je stärker du bremst, desto schneller kommt der Schirm runter. Unter verschiedenen Windgeschwindigkeiten ausprobieren und vergleichen."
+    },
+    "B01": {
+      "name": "Freihändig aufziehen",
+      "desc": "Drücke deine Körper rückwärts in Richtung Wind. Halte lediglich die Bremsen, ohne die A-Gurte zu ziehen, bereit den Schirm über dir abzufangen. Beachte: Nicht alle Schirme lassen sich so aufziehen."
+    },
+    "B02": {
+      "name": "Freihändig oben halten",
+      "desc": "Halte den Schirm über dir ohne eine Leine oder die Bremsen zu berühren. Körpereinsatz ist gefragt. Lehne dich in den Sitz und die Gurte und warte die Schirmreaktion ab."
+    },
+    "B03": {
+      "name": "Krebsgang",
+      "desc": "Laufe quer zum Wind, nach links oder rechts. Folge den Schirm oder lasse ihn dir folgen. Viele Wege führen nach Rom."
+    },
+    "B04": {
+      "name": "C-Bremse",
+      "desc": "Ziehe die hintere Gurtebene, bis der Schirm nach hinten kippt. Erfordert mehr Kraft, ist aber sanfter als die Bremsen zu nutzen. Hilfreich bei stärkerem Wind."
+    },
+    "C01": {
+      "name": "Rosettenstart",
+      "desc": "Lege den Schirm als Rosette aus und lasse die mittleren Zellen rauspitzen. Durch Zug an den inneren A-Gurten sollte der Schirm langsam steigen. Mit unterschiedlicher Anzahl an Zellen, die dem Wind ausgesetzt sind, bei unterschiedlichen Windstärken experimentieren."
+    },
+    "C02": {
+      "name": "Seitenstart",
+      "desc": "Lege den Schirm am Rand des Windfensters aus und ziehe ihn von dort auf. Wenn nötig, die jeweilige Seite stärker anziehen."
+    },
+    "C03": {
+      "name": "Kobrastart",
+      "desc": "Führe am Rand des Windfensters die Zellen einer Flügelspitze langsam wie eine Schlange nach oben. Bitte ggf. einen Freund um Hilfe. Fingerspitzengefühl an den Bremsen ist der Schlüssel zum Erfolg."
+    },
+    "C04": {
+      "name": "Rückwärts gehen",
+      "desc": "Gehe rückwärts mit dem Wind. Um den Schirm über dir zu halten, behalte ihn im Blick und laufe nicht schneller als der Wind weht. Unterschiedliche Windbedingungen wirken sich stark auf die Schwierigkeit aus."
+    },
+    "C05": {
+      "name": "Hinlegen",
+      "desc": "Lege dich auf den Rücken und halte den Schirm dabei über dir. Am besten in laminaren Bedingungen und mit feinem Bremseinsatz. Kannst du wieder aufstehen, ohne den Schirm fallenzulassen?"
+    },
+    "C06": {
+      "name": "Kleiner Klapper",
+      "desc": "Ziehe an einer der A-Leinen, um etwa 30% einer Schirmseite einzuklappen. Dosiere die Bremse auf der Gegenseite so, dass der Schirm stabil fliegt. Pumpen um den Klapper zu lösen funktioniert, wenn die Kappe genug Druck hat."
+    },
+    "C07": {
+      "name": "Seitlich ablegen",
+      "desc": "Lege den Schirm am Rand des Windfensters Zelle auf Zelle ab. Unter manchen Bedingungen nicht einfach zu realisieren. Wenn es hinhaut, erleichtert es das Packen mit einen Zellenpacksack."
+    },
+    "C08": {
+      "name": "Frontklapper",
+      "desc": "Steht der Schirm über dir, führt das ziehen an beiden A-Gurten zum Frontklapper. Manchmal hilfreich, um den Schirm in Starkwind schnell herunterzuholen. Die A-Gurte kann man nicht ewig halten. Denke daran, wie man den Flügel startet."
+    },
+    "C09": {
+      "name": "B-Stall",
+      "desc": "Ziehe an den B-Gurten, bis der Schirm die Form eines Croissants hat. Nicht hübsch, aber universell einsetzbar, um den Flügel abzuwürgen. Der B-Stall kann lange gehalten werden."
+    },
+    "C10": {
+      "name": "Langsam ablegen",
+      "desc": "Lege den Schirm unter Zuhilfenahme aller Leinen sanft ab. Lässt du den Schirm nicht hart aufschlagen, hält er länger. Je nach Windstärke ist eine andere Technik gefragt."
+    },
+    "D01": {
+      "name": "Verhänger",
+      "desc": "Fädele eine Flügelspitze vorbereitend durch die Leinen. Ziehe den Schirm so auf und halte ihn oben. Bonuspunkte, wenn du den Verhänger in der Luft lösen kannst. "
+    },
+    "D02": {
+      "name": "Einseitig aufziehen",
+      "desc": "Ziehe den Schirm nur mit einer Seite hoch. Nutze A-Gurt und Bremse nur auf dieser Seite. Beinarbeit ist gefragt."
+    },
+    "D03": {
+      "name": "Umdrehen",
+      "desc": "Dein Schirm liegt auf der Nase. Bringe die Eintrittskante nach oben, ohne das Tuch zu berühren. Gurte und Leinen sind erlaubt. Beinarbeit zur rechten Zeit könnte helfen."
+    },
+    "D04": {
+      "name": "Stallpunkt",
+      "desc": "Finde den Stallpunkt. Oberhalb steigt der Schirm, unterhalb sinkt er. Halte den Schirm mit gut dosierten Impulsen gerade an diesem Punkt."
+    },
+    "D05": {
+      "name": "Kite",
+      "desc": "Finde die Stellung, in der die Kappe am stärksten zieht und folge ihm kontrolliert. Auf den Beinen, sitzend oder auf dem Bauch: Entscheidend ist zu wissen, wie wie du ihn wieder stoppst. Hilfreich, um hangaufwärts zu laufen."
+    },
+    "D06": {
+      "name": "Flügelschläge",
+      "desc": "Pumpe mit den Bremsen, ohne den Schirm nach hinten kippen zu lassen. Wie tief und schnell kannst du ihn pumpen? "
+    },
+    "D07": {
+      "name": "Halber Klapper",
+      "desc": "Ziehe an einer der A-Leinen, um 50% des Schirms einzuklappen. Versuche den Kapper wieder zu lösen. Geduld und Beinarbeit könnten helfen."
+    },
+    "D08": {
+      "name": "Bergauf",
+      "desc": "Lasse dir vom Schirm helfen, auf eine Düne oder einen Hügel zu steigen. Abheben verboten, obgleich es Spaß bringt. Im Zickzack laufen könnte helfen."
+    },
+    "E01": {
+      "name": "Wurfstart",
+      "desc": "Den Schirm in einer, die A-Gurte in der anderen Hand. Wirf den Schirm mit dem Wind, laufe rückwärts in den Wind und ziehe an den A-Gurten. Volle Punktzahl, wenn der Schirm nicht einmal den Boden berührt."
+    },
+    "E02": {
+      "name": "Spiegelverkehrt",
+      "desc": "Dein Schirm liegt auf der Nase. Ziehe ihn mit den Bremsen auf. Verkehrte Welt! Mit den Bremsen steigt er, mit den A-Gurte sinkt er. Eine Sharknose fehlt der Hinterkante, der Schirm steigt also nicht ganz auf. Halte ihn über dem Boden."
+    },
+    "E03": {
+      "name": "Vollklapper",
+      "desc": "Ziehe an allen A-Leinen, bis auf die einer Flügelspitze, um etwa 80% einer Schirmseite einzuklappen. Löse den Klapper, ohne dass der Schirm zu Boden fällt. Ist weit schwieriger als ein symmetrischer Frontklapper."
+    },
+    "E04": {
+      "name": "360",
+      "desc": "Drehe den Schirm flüssig um die Hochachse. Schirmgröße, Windstärke etc. haben Einfluss auf die Schwierigkeit. Klopfe dir selbst auf die Schulter, falls du diesen Stunt meisterst."
+    },
+    "E05": {
+      "name": "Spiderman",
+      "desc": "Falls du es bis hierher geschafft hast, hat die Groundhandling Challenge wahrlich ihren Job gemacht. :-)"
+    }
+  }
+}

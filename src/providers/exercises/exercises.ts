@@ -17,68 +17,46 @@ export class ExercisesService {
         {
           id: 'A01',
           level: 'A',
-          name: 'Pull Up',
-          desc: 'Align your wing perpendicular to the wind. Grab your A\'s and pull. The wing will come up above you. How fast depends on how big your wing is, how much wind and how hard you pull.',
           check: false
         },{
           id: 'A02',
           level: 'A',
-          name: 'Keep Overhead',
-          desc: 'Above you, the wing will pitch, roll and yaw. Use your feet and brakes to stay below the wing. If it gets too easy try different wind conditions.',
           check: false
         },{
           id: 'A03',
           level: 'A',
-          name: 'Walk Forward',
-          desc: 'Lower you center of gravity and push into wind. The more brake you apply, the harder you have to push. Try whilst facing forward and facing your wing too.',
           check: false
         },{
           id: 'A04',
           level: 'A',
-          name: 'Kill It',
-          desc: 'Pull your brakes until your wing starts to drop back. The more you pull the faster it drops. Try in different wind speeds and compare results.',
           check: false
         },{
           id: 'B01',
           level: 'B',
-          name: 'Launch no As',
-          desc: 'Get your bum into the harness and push back. Keep your hands ready on the brakes but don\'t pull the As. Some wings inflate and rise by just pulling on the risers.',
           check: false
         },{
           id: 'B02',
           level: 'B',
-          name: 'Overhead no hands',
-          desc: 'Keep the wing overhead without touching any line. You can move your body to stay under the wing. Lean on the harness/risers and the wing will slowly respond.',
           check: false
         },{
           id: 'B03',
           level: 'B',
-          name: 'Walk Left',
-          desc: 'Or right. Move perpendicular to the wind. You can make the wing follow you, or vice-versa. There are many ways to achieve the same objective.',
           check: false
         },{
           id: 'B04',
           level: 'B',
-          name: 'Kill It with Cs',
-          desc: 'Pull on your back risers and the wing will drop back. Probably needs more pressure than the brakes but is smoother. Might be useful when the wind is stronger.',
           check: false
         },{
           id: 'C01',
           level: 'C',
-          name: 'Bunched Pull up',
-          desc: 'Arrange your glider in a circle and expose the center cells. When you pull on the inner As the wing should come up slowly. Try with different numbers of cells exposed and different wind conditions.',
           check: false
         },{
           id: 'C02',
           level: 'C',
-          name: 'Side Launch',
-          desc: 'Put the glider at the edge of wind window. Get the glider above your head from that position. You might have to pull one side up harder than the other.',
           check: false
         },{
           id: 'C03',
           level: 'C',
-          name: 'Cobra Launch',
-          desc: 'Can be done on your own or with help of a friend. Cells exposed at the edge of the window inflate and pull the wing up like a snake. Finesse on the brakes here is key.',
           check: false
         },{
           id: 'C04',

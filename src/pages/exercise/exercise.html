@@ -1,6 +1,6 @@
 <ion-header>
   <ion-navbar>
-    <ion-title>Difficulty {{ activeLevel }}</ion-title>
+    <ion-title>{{ 'misc.difficulty' | translate }} {{ activeLevel }}</ion-title>
   </ion-navbar>
 </ion-header>
 
@@ -18,11 +18,11 @@
                     <ion-icon name="{{ (completedExercises$ | async).includes(exercise.id) ? 'checkmark-circle' : 'checkmark-circle-outline' }}" isActive="true" no-padding></ion-icon>
                   </button>
                 </ion-col>
-                <ion-col >{{ exercise.name }}</ion-col>
+                <ion-col >{{ 'exercises.'+exercise.id+'.name' | translate }}</ion-col>
               </ion-row>
             </ion-grid>
           </ion-card-title>
-          <p text-left>{{ exercise.desc }}</p>
+          <p text-left>{{ 'exercises.'+exercise.id+'.desc' | translate }}</p>
         </ion-card-content>
       </ion-card>
     </ion-slide>

@@ -1,9 +1,13 @@
 import { NgModule, ErrorHandler } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
+import { HttpClientModule, HttpClient } from '@angular/common/http';
 import { IonicApp, IonicModule, IonicErrorHandler } from 'ionic-angular';
 import { IonicStorageModule } from '@ionic/storage';
 import { GroundApp } from './app.component';
 import { PipesModule } from '../pipes/pipes.module';
+
+import { TranslateModule, TranslateLoader } from '@ngx-translate/core';
+import { TranslateHttpLoader } from '@ngx-translate/http-loader';
 
 import { TabsPage } from '../pages/tabs/tabs';
 import { HomePage } from '../pages/home/home';
@@ -39,6 +43,11 @@ export function storageMetaReducer(reducer: ActionReducer<any>): ActionReducer<a
 
 export const metaReducers: MetaReducer<any, any>[] = [storageMetaReducer];
 
+// AoT requires an exported function for factories
+export function HttpLoaderFactory(http: HttpClient) {
+    return new TranslateHttpLoader(http, "./assets/i18n/", ".json");
+}
+
 @NgModule({
   declarations: [
     GroundApp,
@@ -49,6 +58,14 @@ export const metaReducers: MetaReducer<any, any>[] = [storageMetaReducer];
   ],
   imports: [
     BrowserModule,
+    HttpClientModule,
+    TranslateModule.forRoot({
+      loader: {
+        provide: TranslateLoader,
+        useFactory: HttpLoaderFactory,
+        deps: [HttpClient]
+      }
+    }),
     PipesModule,
     IonicModule.forRoot(GroundApp),
     IonicStorageModule.forRoot(),

@@ -1,17 +1,17 @@
 <ion-header>
   <ion-navbar>
-    <ion-title>Exercises</ion-title>
+    <ion-title>{{ 'misc.exercises' | translate }}</ion-title>
   </ion-navbar>
 </ion-header>
 
 <ion-content>
   <ion-list *ngFor="let level of data.levels">
-    <ion-list-header [ngStyle]="{'color': level.color}">Difficulty {{ level.id }}</ion-list-header>
+    <ion-list-header [ngStyle]="{'color': level.color}">{{ 'misc.difficulty' | translate }} {{ level.id }}</ion-list-header>
     <ion-item tappable detail-push *ngFor="let exercise of data.exercises | matchesLevel:level.id" (click)="pushPage(exercise)">
       <button ion-button item-start icon-only clear (click)="toggleExercise($event, exercise.id)">
         <ion-icon [name]="(completedExercises$ | async).includes(exercise.id) ? 'checkmark-circle' : 'checkmark-circle-outline'" isActive="true"></ion-icon>
       </button>
-      {{ exercise.id }} - {{ exercise.name }}
+      {{ exercise.id }} - {{ 'exercises.'+exercise.id+'.name' | translate }}
     </ion-item>
   </ion-list>
 </ion-content>
