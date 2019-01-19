@@ -11,7 +11,7 @@
       <button ion-button item-start icon-only clear (click)="toggleExercise($event, exercise.id)">
         <ion-icon [name]="(completedExercises$ | async).includes(exercise.id) ? 'checkmark-circle' : 'checkmark-circle-outline'" isActive="true"></ion-icon>
       </button>
-      {{ exercise.id }} - {{ 'exercises.'+exercise.id+'.name' | translate }}
+      {{ 'exercises.'+exercise.id+'.name' | translate }}
     </ion-item>
   </ion-list>
 </ion-content>
