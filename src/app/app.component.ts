@@ -18,10 +18,11 @@ export class GroundApp {
     private statusBar: StatusBar,
     private splashScreen: SplashScreen
   ){
-    platform.ready().then(() => {
-      this.initTranslate();
-      statusBar.styleDefault();
-      splashScreen.hide();
+    this.initTranslate();
+
+    this.platform.ready().then(() => {
+      this.statusBar.styleDefault();
+      this.splashScreen.hide();
     });
   }
 
