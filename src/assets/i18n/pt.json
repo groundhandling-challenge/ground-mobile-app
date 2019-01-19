@@ -1,0 +1,133 @@
+{
+  "misc": {
+    "exercises": "Exercícios",
+    "about": "Info",
+    "difficulty": "Dificuldade"
+  },
+  "exercises": {
+    "A01": {
+      "name": "Levanta a asa",
+      "desc": "Poe a asa perpendicular ao vento. Segura nas bandas A e puxa. A asa vai subir até ficar por cima da tua cabeça. A velocidade de subida depende do tamanho da asa, a velocidade do vento e a força com que puxas."
+    },
+    "A02": {
+      "name": "Mantem no ar",
+      "desc": "Quanto a asa esta no ar ela vai-se mover nos 3 eixos. Usa os pés e os travões para ficares sempre debaixo do centro da asa. Se for demasiado fácil experimenta em condições de vento diferentes."
+    },
+    "A03": {
+      "name": "Anda para a frente",
+      "desc": "Baixa o teu centro de gravidade e empurra pra barlavento. Quanto mais puxares os travoões mais difícil é avançar. Experimenta olhando para a frente ou olhando para a asa."
+    },
+    "A04": {
+      "name": "Mata a asa",
+      "desc": "Puxa os travões até a asa começar a cair. Quanto mais puxares mais rápido ela cai. Experimenta em diferentes ventos e compara resultados."
+    },
+    "B01": {
+      "name": "Levanta sem As",
+      "desc": "Assenta o rabiosque no harnês e empurra para trás. Mantém as mãos nos travões mas não puxes nas As. Algumas asas inflam e sobem simplesmente puxando pelas bandas."
+    },
+    "B02": {
+      "name": "Mantem no ar sem maos",
+      "desc": "Mantém a asa no ar sem tocar em nada. Podes andar para te manter por baixo da asa. Encosta-te nas bandas e a asa reagirá lentamente."
+    },
+    "B03": {
+      "name": "Anda para a esquerda",
+      "desc": "Ou para a direita. Anda perpendicular ao vento. Podes seguir a asa ou faze-la seguir-te a ti. Há muitas maneiras de chegar ao mesmo objectivo."
+    },
+    "B04": {
+      "name": "Mata com as Cs",
+      "desc": "Puxa as linhas C e a asa desce. Provavelmente precisa de mais pressão que os travões mas é uma descida mais suave. Pode ser útil para vento forte."
+    },
+    "C01": {
+      "name": "Levantar em roda",
+      "desc": "Deita a asa no chão num pequeno circulo e abre as celulas do meio. Quando puxas nos As centrais a asa deve subir lentamente. Experimenta com diferentes numeros de celulas expostas e ventos de forças diferentes."
+    },
+    "C02": {
+      "name": "Levantar de lado",
+      "desc": "Deita a asa no limiar da janela do vento. A partir dessa posição levanta a asa. Podes ter que puxar um lado mais que o outro."
+    },
+    "C03": {
+      "name": "Levantar em cobra",
+      "desc": "Pode-se fazer sozinho ou com ajuda de um amigo. As celulas expostas ao vento enchem a asa e puxam-na para cima como uma cobra. Paciência e delicadesa nos travões são a chave."
+    },
+    "C04": {
+      "name": "Anda para trás",
+      "desc": "Anda para sotavento mantendo a asa no ar. O que mantem a asa no ar é velocidade aerodinâmica. Ventos de intensidade diferentes afectam a dificuldade."
+    },
+    "C05": {
+      "name": "Deita-te",
+      "desc": "Como uma pedra. Mantém a asa a voar. Vais precisar de vento laminar e controlo preciso nos travões. Consegues-te voltar a levantar sem deixar cair a asa?"
+    },
+    "C06": {
+      "name": "30% Assimétrico",
+      "desc": "Puxa um dos As para colapsar 30% da asa. Não exageres na compensação. Usa apenas travão suficiente para manter a asa a voar. Puxar o outro travão para bombear o fecho só funciona se a asa tiver pressão suficiente."
+    },
+    "C07": {
+      "name": "Mata de lado",
+      "desc": "Poe a asa no chão no limiar da janela do vento. Pode ser difícil de fazer em algumas condições. Se feito correctamente, faz dobrar a asa em concertina bem mais fácil."
+    },
+    "C08": {
+      "name": "Mata com as As",
+      "desc": "Puxar os As colapsa o bordo de ataque. Pode ser uma técnica útil para matar a asa em vento forte. Não podes ficar a puxar os As para indefinidament. Lembra-te de como se levanta uma asa."
+    },
+    "C09": {
+      "name": "Mata com as Bs",
+      "desc": "Puxa nos Bs até que a asa se dobre como uma folha de papel. Não é bonito mas funciona para matar a asa em quase todas as situaçōes. Podes segurar a asa assim indefinidamente."
+    },
+    "C10": {
+      "name": "Mata com jeitinho",
+      "desc": "Poe a asa no chão devagar usanto todas as linhas disponíveis. Se não bateres com a asa no chão com força ela vai durar mais. Ventos diferentes requerem técnicas diferentes. "
+    },
+    "D01": {
+      "name": "Levanta com gravata",
+      "desc": "Passa a ponta da asa pelas linhas, de propósito. Levanta a asa e mantém-na a voar. Pontos extra por tirar a gravata sem deixar a asa cair."
+    },
+    "D02": {
+      "name": "1 Lado só",
+      "desc": "Levanta a asa usando apenas um lado. Usa o A e o travão de um lado da asa. Podes mexer os pés."
+    },
+    "D03": {
+      "name": "Não lhe toques",
+      "desc": "A tua asa está de cabeça pra baixo. Vira-a de cabeça pra cima. Mas não lhe podes tocar, usa só as linhas. Mexer os pés na hora certa pode ajudar."
+    },
+    "D04": {
+      "name": "Ponto de perda",
+      "desc": "Um pouco mais acima e a asa sobe. Um pouco mais abaixo e ela cai. Mantém-a nesse ponto de perda acima do solo. Ajustes rápidos e super precisos são necessários."
+    },
+    "D05": {
+      "name": "Arrastão controlado",
+      "desc": "Encontra a posição em que a asa te puxa mais e deixa-a arrastar-te. Em pé, de cu ou até de barriga, a chave é saber como sair. Pode ser um meio de transporte muito útil."
+    },
+    "D06": {
+      "name": "Bater asas",
+      "desc": "Puxa os travoes para cima e para baixo como um bater de asas mas não a deixes entrar em perda. Quão rápido e quão fundo podes puxar? Há uma relação entre frequencia e profundidade da travagem?"
+    },
+    "D07": {
+      "name": "50% Assimétrico",
+      "desc": "Puxa um dos As para colapsar 50% da asa. Sê paciente em tirar o fecho. Trabalhar com os pés pode ser vantajoso."
+    },
+    "D08": {
+      "name": "Sobe a duna",
+      "desc": "Ou qualquer outra colina. Usa a asa para ajudar a subir. Se começares a voar sem querer perders, mas é divertido na mesma. Subir em Zig-Zag pode ser mais facil do que em linha recta."
+    },
+    "E01": {
+      "name": "Levanta atirando",
+      "desc": "Asa bem arranjada numa mão, As na outra. Atira a asa, corre para tráz e puxa nos As. Se a asa não tocar no chão ganhas mais pontos."
+    },
+    "E02": {
+      "name": "De cabeça pra baixo",
+      "desc": "Mantém a asa acima do solo, de cabeça para baixo. É tudo ao contrário. Os travões fazem a asa subir, e os As fazem-na descer. No bordo de fuga não há sharknose, por isso só dá pra subir até um certo ponto."
+    },
+    "E03": {
+      "name": "80% Assimétrico",
+      "desc": "Puxa as linhas A menos uma das pontas da asa. Recupera o colapso sem deixar a asa cair. Pode ser mais difícil que um frontal completo pois não é simétrico."
+    },
+    "E04": {
+      "name": "360",
+      "desc": "Normal, de cabeça pra baixo e de volta ao normal. Tudo num so movimento fluido. O tamanho da asa, a velocidade do vento e outros factores podem fazer com que seja mais fácil."
+    },
+    "E05": {
+      "name": "Homen aranha",
+      "desc": "Se consegues fazer todos menos este, o Groundhandling Challenge fez o seu trabalho :)"
+    }
+  }
+}
