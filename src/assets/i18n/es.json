@@ -1,0 +1,133 @@
+{
+  "misc": {
+    "exercises": "Ejercicios",
+    "about": "Info",
+    "difficulty": "Dificultad"
+  },
+  "exercises": {
+    "A01": {
+      "name": "Levantar la vela",
+      "desc": "Pon la vela perpendicular al viento. Sujeta las bandas As y tira. La vela subirá sobre tu cabeza. La velocidad de subida depende del tamaño de la vela, la velocidad del viento y la fuerza con que tiras."
+    },
+    "A02": {
+      "name": "Mantener sobre tu cabeza",
+      "desc": "Sobre tuyo, le vela se moverá en los tres ejes. Usa tus pies y frenos para permanecer detrás de la vela. Si es demasiado fácil, inténtalo en otras condiciones de viento."
+    },
+    "A03": {
+      "name": "Camina hacia adelante",
+      "desc": "Baja tu centro de gravedad y empuja hacia el viento. Mientras más freno apliques, más fuerte tendrás que empujar. Inténtalo mirando hacia el viento y hacia tu vela también."
+    },
+    "A04": {
+      "name": "Mata la vela",
+      "desc": "Tira los frenos hasta que tu vela empiece a caer hacia atrás. Mientras más rápido tires, más rápido caerá. Inténtalo en diferentes velocidad de viento y compara los resultados."
+    },
+    "B01": {
+      "name": "Levántala sin As",
+      "desc": "Pon tu trasero contra la silla y empuja hacia atrás. Mantén tus manos listas en los frenos, pero no tires de las As. Algunas velas se inflan y levantan tan solo con tirar de las bandas."
+    },
+    "B02": {
+      "name": "Mantener sobre tu cabeza sin manos",
+      "desc": "Mantén la vela sobre tu cabeza sin tocar ninguna línea. Puedes mover tu cuerpo para estar debajo de la vela. Reposa sobre la silla/bandas y la vela responderá lentamente."
+    },
+    "B03": {
+      "name": "Camina a la izquierda",
+      "desc": "O a la derecha. Muévete perpendicular al viento. Puedes hacer que la vela te siga, o vice versa. Hay muchas maneras para lograr el mismo objetivo."
+    },
+    "B04": {
+      "name": "Mátala con las C",
+      "desc": "Tira las bandas traseras y la vela caerá hacia atrás. Probablemente necesites más presión que con los frenos, pero será más suave. Puede ser útil cuando el viento está más fuerte."
+    },
+    "C01": {
+      "name": "Levanta arrepollado",
+      "desc": "Arregla tu parapente en un círculo, exponiendo los cajones centrales. Cuando tires de las As internas la vela debiera subir lentamente. Intenta diferente número de cajones expuestos y diferentes condiciones del viento."
+    },
+    "C02": {
+      "name": "Levantar de lado",
+      "desc": "Pon el parapente en el borde de la ventana de viento. Deja el parapente sobre tu cabeza desde esa posición. Podrías tener que tirar de un lado más fuerte que del otro."
+    },
+    "C03": {
+      "name": "Levanta Cobra",
+      "desc": "Puede ser hecho por tí mismo o con la ayuda de un amigo. Expón los cajones en el borde de la ventana de viento se inflen y tira de la vela como una serpiente. Finesa en los frenos es la clave acá."
+    },
+    "C04": {
+      "name": "Camina hacia atrás",
+      "desc": "Camina hacia atrás manteniendo la vela sobre tu cabeza. Lo que mantiene la vela volando es la velocidad del viento, así que ten ojo con eso. Con diferentes condiciones del viento, cambia muchísimo el nivel de dificultad."
+    },
+    "C05": {
+      "name": "Acuéstate",
+      "desc": "Como un ladrillo. Mantén la vela sobre tuyo. Vas a necesitar viento laminar y control preciso de los frenos. ¿Puedes volver a pararte sin botar la vela?"
+    },
+    "C06": {
+      "name": "30% Asimétrico",
+      "desc": "Tira de una de las As para colapsar la vela un 30%. No sobre reacciones. Usa la cantidad exacta de freno opuesto para mantener la vela volando. Bombear con los frenos para inflar el lado colapsado solo funciona si tienes la suficiente presión."
+    },
+    "C07": {
+      "name": "Mátala de lado",
+      "desc": "Baja la vela en el borde de la ventana de viento. Puede ser difícil de lograr en algunas condiciones de viento. Si se hace exitosamente, el guardar en una concertina se hace mucho más fácil."
+    },
+    "C08": {
+      "name": "Mátala con las As",
+      "desc": "Tirar las As colapsará el borde de la vela. Esto puede ser útil para bajarla rápido cuando hay mucho viento. No podrás tenerla así por siempre. Ten en mente cómo despega una vela."
+    },
+    "C09": {
+      "name": "Mátala con las Bs",
+      "desc": "Tira de las B hasta que la vela se soble como un taco. No es muy bonito, pero muy útil para matar la vela en casi cualquier situación. También puedes mantener el taco por siempre."
+    },
+    "C10": {
+      "name": "Mátala suavemente",
+      "desc": "Baja la vela suavemente usando todas las líneas disponibles. Si no golpeas la vela contra el suelo, durará más. Para diferentes condiciones de viento, se requerirán diferentes técnicas"
+    },
+    "D01": {
+      "name": "Infla con corbata",
+      "desc": "Pon una de las puntas de la vela entre las líneas a propósito. Levanta la vela y mantenla sobre tu cabeza. Tienes bonos si logras sacar la corbata sin bajar la vela."
+    },
+    "D02": {
+      "name": "1 solo lado",
+      "desc": "Tira de tu vela usando solo un lado. Usa solo la A y freno del mismo lado de la vela. Puedes mover los pies también."
+    },
+    "D03": {
+      "name": "No la toques",
+      "desc": "Tu vela está dada vuelta mirando hacia abajo. Dala vuelta para que quede mirando hacia arriba. No puedes tocar la vela, sólo las líneas. Mover los pies en el momento correcto puede ayudarte."
+    },
+    "D04": {
+      "name": "Punto de stall",
+      "desc": "Un poco más arriba la vela despegaría. Un poco más abajo se moriría. Mantenla en este punto de stall sobre el suelo. Ajustes extremadamente finos son necesarios."
+    },
+    "D05": {
+      "name": "Arrastre controlado",
+      "desc": "Encuentra la posición donde la vela te tira más y permite arrastrarte. En tus pies, trasero o incluso de estómago, la clave es saber cómo salir de ahí. Puede ser un medio de transporte muy útil."
+    },
+    "D06": {
+      "name": "Batir alas",
+      "desc": "Bombea los frenos y aletea la vela, pero sin dejar que la vela quede detrás tuyo. ¿Qué tan rápido y profundo puedes bombear? ¿Hay una relación entre la frecuencia y cuánto puedes bombear?"
+    },
+    "D07": {
+      "name": "50% asimétrico",
+      "desc": "Tira una de las As para colapsar el 50% de la vela. Se paciente en sacar el colapso. El trabajo de pies puede ser muy útil."
+    },
+    "D08": {
+      "name": "Sube una duna",
+      "desc": "O cualquier loma o cerro pequeño. Usa la vela para que te tire. Si comienzas a volar, pierdes, pero seguirá siendo entretenido. Haciendo zig zag puede ser más fácil que intentar subir en línea recta."
+    },
+    "E01": {
+      "name": "Infla lanzándola",
+      "desc": "La vela arrepollada en una mano, las As en la otra. Tira la vela viento abajo, corre hacia atrás y tira de las As. Si la vela no toca el suelo, ganas el máximo puntaje."
+    },
+    "E02": {
+      "name": "Vuela hacia atrás",
+      "desc": "Manten la vela en el suelo, al revés. Todo es en reverso. Los frenos hacen que la vela suba y las As, que bajen. En el borde de fuga no hay Sharknose, por lo que sube solo hasta cierto punto."
+    },
+    "E03": {
+      "name": "80% asimétrica",
+      "desc": "Tira de todas las As menos una de las líneas. Recupera del colapso sin dejar que la vela caiga. Puede ser más difícil que en el caso de una plegada frontal, al no ser simétrica."
+    },
+    "E04": {
+      "name": "360",
+      "desc": "Apuntando hacia arriba, hacia abajo, hacia arriba. Todo en un único y fluido movimiento. El tamaño de la vela, la velocidad del viento y otras cosas pueden hacerlo más o menos fácil. Pégate en la espalda si logras hacer esta."
+    },
+    "E05": {
+      "name": "Hombre Araña",
+      "desc": "Si llegaste hasta este punto, el Groundhandling Challenge ha hecho su trabajo! :)"
+    }
+  }
+}
